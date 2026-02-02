@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Sarah",
+        "surname": "Smith",
+        "DoB": "19.01.1998",
+        "salary": 2000,
+        "url": "photos/smith.webp"
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "surname": "Pork",
+        "DoB": "01.02.2000",
+        "salary": 3400,
+        "url": "photos/pork.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Candice",
+        "surname": "Dawny",
+        "DoB": "04.07.1989",
+        "salary": 5000,
+        "url": "photos/downey.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Philip",
+        "surname": "Brown",
+        "DoB": "22.01.1987",
+        "salary": 2000,
+        "url": "photos/zelensky.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Robert",
+        "surname": "Wilson",
+        "DoB": "26.11.1995",
+        "salary": 7000,
+        "url": "photos/jew.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Danny",
+        "surname": "Boyd",
+        "DoB": "01.08.1960",
+        "salary": 12000,
+        "url": "photos/Danny_boyd.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Jacque",
+        "surname": "Fresko",
+        "DoB": "19.01.1916",
+        "salary": 22000,
+        "url": "photos/FML_J.Fresco1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Arthur",
+        "surname": "Lionheart",
+        "DoB": "13.02.1870",
+        "salary": 1000,
+        "url": "photos/Artoria.webp"
+    },
+    {
+        "id": 9,
+        "name": "Lancelot",
+        "surname": "Junior",
+        "DoB": "31.12.1920",
+        "salary": 2200,
+        "url": "photos/lancelot.webp"
+    },
+    {
+        "id": 10,
+        "name": "Chad",
+        "surname": "Kucher",
+        "DoB": "04.07.2006",
+        "salary": 200000,
+        "url": "photos/chad.jpg"
+    }
+]
