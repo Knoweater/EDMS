@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script defer src="js.js"></script>
+</head>
+<body>
+    <div class="container_input">
+        <input type="text" id="find_field" placeholder="Enter person surname" class="hidden">
+
+        <input type="text" id="name_field" placeholder="Enter person name" class="inputField hidden">
+        <input type="text" id="surname_field" placeholder="Enter person surname" class="inputField hidden">
+        <input type="text" id="DoB_field" placeholder="Enter person DoB" class="inputField hidden">
+        <input type="text" id="salary_field" placeholder="Enter person salary" class="inputField hidden">
+    </div>
+    
+
+    <div class="container">
+        <div class="field">
+            <div class="menu">
+                <div id="find_person" onclick="activateFieldFind()">Find</div>
+                <div id="add_person" onclick="activateFieldCreate()">Create</div>
+            </div>
+            <div id="list">
+                <div id="scroll-list"></div>
+            </div>
+        </div>
+        <div id="info">
+            <div id="photo-place"><img src="photos/smith.webp" class="picture"></div>
+            <div id="info-place">
+                <p>Name: </p><div id="name">Sarah</div>
+                <p>Surname: </p><div id="surname">Smith</div>
+                <p>Date of birth: </p><div id="DoB">19.01.1998</div>
+                <p>Salary</p><div id="salary">2000</div>
+            </div>
+            
+        </div>
+    </div>
+</body>
+</html>
